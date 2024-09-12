@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body>
-    <?php include 'include/navbar.php'; ?>
+<?php include 'include/navbar.php'; ?>
     <h1>Contact Us</h1>
     <form action="">
         <label for="fname">First Name:</label>
